@@ -59,7 +59,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-01-Quickstart",
-     "loom": "https://www.loom.com/share/fe01a088e50e486fb043367a150e62af"
+     "loom": "https://www.loom.com/share/bc9c737d83374356927a60cb2508e656",
+     "filmed": "2026-11-16"
     }
    ]
   },
@@ -79,7 +80,8 @@
     {
      "text": "Chat UI and Customization - Angular",
      "clip": "AG2-angular-02-ChatUi",
-     "loom": "https://www.loom.com/share/3d9729f3b5b3442ba2fd9f3913df98a8"
+     "loom": "https://www.loom.com/share/3d9729f3b5b3442ba2fd9f3913df98a8",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -103,7 +105,8 @@
     {
      "text": "Frontend tools and generative UI - Angular",
      "clip": "AG2-angular-03-FrontendToolsGenerativeUi",
-     "loom": "https://www.loom.com/share/fbd18938588642a18bb14b9cbdc68aea"
+     "loom": "https://www.loom.com/share/fbd18938588642a18bb14b9cbdc68aea",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -127,7 +130,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-04-NativeGenerativeUi",
-     "loom": "https://www.loom.com/share/4a79b3db0fc7489ab0f35380cfc043b7"
+     "loom": "https://www.loom.com/share/4a79b3db0fc7489ab0f35380cfc043b7",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -151,7 +155,8 @@
     {
      "text": "Issue",
      "clip": "AG2-angular-05-A2ui",
-     "loom": "https://www.loom.com/share/f9a3f0b83f5c4e23972b80d61c3e8f12"
+     "loom": "https://www.loom.com/share/f9a3f0b83f5c4e23972b80d61c3e8f12",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -175,7 +180,8 @@
     {
      "text": "Issue",
      "clip": "AG2-angular-06-VoiceMultimodal",
-     "loom": "https://www.loom.com/share/7bd699ec98c4401885e20af47a2cf56e"
+     "loom": "https://www.loom.com/share/7bd699ec98c4401885e20af47a2cf56e",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -195,7 +201,8 @@
     {
      "text": "Human-in-the-loop and interrupts - Angular",
      "clip": "AG2-angular-07-HumanInTheLoop",
-     "loom": "https://www.loom.com/share/ba0daede65ed4a779aa98fa92902cfb1"
+     "loom": "https://www.loom.com/share/ba0daede65ed4a779aa98fa92902cfb1",
+     "filmed": "2026-11-11"
     }
    ]
   },
@@ -219,7 +226,8 @@
     {
      "text": "Issue",
      "clip": "AG2-angular-08-SharedState",
-     "loom": "https://www.loom.com/share/55a24389c3bc44bcbdfc5113b550abb8"
+     "loom": "https://www.loom.com/share/55a24389c3bc44bcbdfc5113b550abb8",
+     "filmed": "2026-11-11"
     }
    ]
   },
@@ -239,7 +247,8 @@
     {
      "text": "Threads, memory, attachments, and headless UI - Angular",
      "clip": "AG2-angular-09-ThreadsMemoryHeadless",
-     "loom": "https://www.loom.com/share/9cf3d686338a46d6be29cd24546da253"
+     "loom": "https://www.loom.com/share/9cf3d686338a46d6be29cd24546da253",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -263,7 +272,8 @@
     {
      "text": "WebMCP - Angular",
      "clip": "AG2-angular-10-WebMcp",
-     "loom": "https://www.loom.com/share/c5a8d250aa5d4d22b59a27e222297626"
+     "loom": "https://www.loom.com/share/c5a8d250aa5d4d22b59a27e222297626",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -287,7 +297,8 @@
     {
      "text": "Authentication - Angular",
      "clip": "AG2-angular-11-Authentication",
-     "loom": "https://www.loom.com/share/db2e9d10f9d74c859efe3c6092883a78"
+     "loom": "https://www.loom.com/share/db2e9d10f9d74c859efe3c6092883a78",
+     "filmed": "2026-11-11"
     }
    ]
   },
@@ -311,7 +322,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-12-SubAgents",
-     "loom": "https://www.loom.com/share/0c8847ff8fd84ec59b1c7d73d7952145"
+     "loom": "https://www.loom.com/share/0c8847ff8fd84ec59b1c7d73d7952145",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -333,7 +345,8 @@
     {
      "text": "Inspector - Angular",
      "clip": "AG2-angular-13-Inspector",
-     "loom": "https://www.loom.com/share/9ec0410449ed4beab592418e32660261"
+     "loom": "https://www.loom.com/share/9ec0410449ed4beab592418e32660261",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -359,7 +372,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-14-ComponentsAndSurfaces",
-     "loom": "https://www.loom.com/share/b940d00942624755a183e068de828d89"
+     "loom": "https://www.loom.com/share/b940d00942624755a183e068de828d89",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -385,7 +399,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-15-Surfaces",
-     "loom": "https://www.loom.com/share/dbebd13da6bd4422918ec50efc1c9621"
+     "loom": "https://www.loom.com/share/dbebd13da6bd4422918ec50efc1c9621",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -411,7 +426,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-16-Catalogs",
-     "loom": "https://www.loom.com/share/1b3e4243618a4cb1b58741368f8b2cdd"
+     "loom": "https://www.loom.com/share/1b3e4243618a4cb1b58741368f8b2cdd",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -437,7 +453,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-17-StandardCatalog",
-     "loom": "https://www.loom.com/share/24d6de08982b40f7ac0e8b370f36491a"
+     "loom": "https://www.loom.com/share/24d6de08982b40f7ac0e8b370f36491a",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -463,7 +480,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-18-StateAndActions",
-     "loom": "https://www.loom.com/share/24a292b161fc4d4a9161f56225b2eda4"
+     "loom": "https://www.loom.com/share/24a292b161fc4d4a9161f56225b2eda4",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -488,7 +506,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-19-Theming",
-     "loom": "https://www.loom.com/share/e1affad3778f4bc5b90efb2b36aeacd2"
+     "loom": "https://www.loom.com/share/e1affad3778f4bc5b90efb2b36aeacd2",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -513,7 +532,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-20-Transports",
-     "loom": "https://www.loom.com/share/50b5f3f6733640d8a99063ca5838a430"
+     "loom": "https://www.loom.com/share/50b5f3f6733640d8a99063ca5838a430",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -538,7 +558,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-21-MarkdownMode",
-     "loom": "https://www.loom.com/share/c109d63154df4527965754d5ae7f9747"
+     "loom": "https://www.loom.com/share/c109d63154df4527965754d5ae7f9747",
+     "filmed": "2026-11-09"
     }
    ]
   },
@@ -564,7 +585,8 @@
     {
      "text": "Not Working",
      "clip": "AG2-angular-22-AdoptFromA2ui",
-     "loom": "https://www.loom.com/share/0c2fc1088e894396a12dbca6c539f949"
+     "loom": "https://www.loom.com/share/0c2fc1088e894396a12dbca6c539f949",
+     "filmed": "2026-11-09"
     }
    ]
   }
